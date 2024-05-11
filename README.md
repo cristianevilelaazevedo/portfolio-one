@@ -33,7 +33,7 @@ Nesse projeto foram utilizados as seguintes tecnologias:
  
 ## Deploy
 
-<p>O deploy do projeto pode ser visualizado através do link: <a href="">Portfólio Cristiane</a></p>
+<p>O deploy do projeto pode ser visualizado através do link: <a href="https://portfoliocristiane.vercel.app/">Portfólio Cristiane</a></p>
 
 ## Contato
 
