@@ -276,7 +276,7 @@ html {
 }
 
 .skills-card:hover {
-    border-color: var(--cor-cards);
+    border-color: var(--cor-destaque);
     transform: scale(1.02);
 }
 
